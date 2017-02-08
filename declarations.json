@@ -1,0 +1,9 @@
+{
+  "GPON Home Gateway Login": {
+    "on_success":"inurl:index.html",
+    "on_fail":"inurl:login.html",
+    "form":"#XForm",
+    "username":"#username",
+    "password":"#password"
+  }
+}
